@@ -1,2 +1,3 @@
 # hello-world
-github learning repository
+
+github is an amazing software!
